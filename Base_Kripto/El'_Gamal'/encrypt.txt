@@ -1,0 +1,3 @@
+Open key is y: 6 p: 7  
+private key is x: 3 
+encrypt word is: ekcpbpeo 
